@@ -12,7 +12,7 @@
 
 ## Node & npm
 
-* [Node](node-and-npm/untitled.md)
+* [Node](node-and-npm/node.md)
 
 ## Version Control
 
@@ -25,9 +25,9 @@
 
 ## Project Folder
 
-* [Untitled](project-folder/untitled.md)
+* [ngGirls Folder](project-folder/project-folder.md)
 
 ## Angular CLI
 
-* [Untitled](angular-cli/untitled.md)
+* [Angular CLI](angular-cli/angular-cli.md)
 

@@ -1,5 +1,6 @@
 # Node
-![](../.gitbook/assets/nodejs.png) 
+
+![](../.gitbook/assets/nodejs.png)
 
 ![](../.gitbook/assets/npm.png)
 
@@ -9,7 +10,7 @@
 
 ## Install Node And npm On Windows
 
-Download [Node](https://code.visualstudio.com/) by opening the link and clicking the green **Windows Installer** button. 
+Download [Node](https://code.visualstudio.com/) by opening the link and clicking the green **Windows Installer** button.
 
 When download is complete, run the installer from your **Downloads** folder and use the default options provided.
 
@@ -17,9 +18,7 @@ Verify your installation by opening the **Command Prompt** \(search for "cmd" in
 
 ![Open Windows Command Prompt](../.gitbook/assets/cmd.png)
 
-
-
- In the **Command Prompt**, type the following command and press `Enter`. You will always press `Enter` after typing a command in the **Command Prompt** unless otherwise instructed.
+In the **Command Prompt**, type the following command and press `Enter`. You will always press `Enter` after typing a command in the **Command Prompt** unless otherwise instructed.
 
 ```bash
 node --version
@@ -63,13 +62,13 @@ Download and install Homebrew by opening the link and copy the text underneath t
 
 Open the terminal and paste the text you copied from the website and press `Return/Enter`. Accept to install the "Command Line Developer Tools" and "License Agreement" if prompted.
 
-At the prompt **Press RETURN to continue or any other key to abort**, press `Return/Enter`. When prompted, type in the password you use to log in to your computer. 
+At the prompt **Press RETURN to continue or any other key to abort**, press `Return/Enter`. When prompted, type in the password you use to log in to your computer.
 
 {% hint style="info" %}
 It may look like you're not typing anything in but this is because it doesn't want to display your password on the screen for security. Type your full password and press `Return/Enter`.
 {% endhint %}
 
-The process will run for a few minutes until it completes. When finished type the following command in your terminal. 
+The process will run for a few minutes until it completes. When finished type the following command in your terminal.
 
 ```bash
 brew -v
