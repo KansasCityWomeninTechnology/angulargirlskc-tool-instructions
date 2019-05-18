@@ -13,7 +13,13 @@ After downloading we will configure it with extra tools called _extensions_ that
 
 ## Install Visual Studio Code
 
-Download and install [Visual Studio Code](https://code.visualstudio.com/) \(you'll often hear it referred as VS Code\) by following the installation instructions on the website. You should install the **Stable Build** for your operating system.
+Download [Visual Studio Code](https://code.visualstudio.com/) \(you'll often hear it referred as VS Code\) by clicking the green **Download for &lt;Windows OR Mac OR Linux&gt;** button. This will download the **Stable Build** for your operating system.
+
+When download is complete, run the installer. Use default selection for all settings if asked.
+
+## Configure Terminal Settings
+
+&lt;Goal here is to set VSCode to use Git Bash as the default terminal&gt;
 
 ## Install Required Extensions
 

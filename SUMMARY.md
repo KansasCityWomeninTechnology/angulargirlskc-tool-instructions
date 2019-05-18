@@ -10,18 +10,18 @@
 
 * [Slack](chat-client/slack.md)
 
-## CODE EDITOR
-
-* [Microsoft Visual Studio Code](code-editor/microsoft-visual-studio-code.md)
-
 ## Node & npm
 
-* [Untitled](node-and-npm/untitled.md)
+* [Node](node-and-npm/untitled.md)
 
 ## Version Control
 
 * [GitHub](version-control/github.md)
 * [Git](version-control/git.md)
+
+## CODE EDITOR
+
+* [Microsoft Visual Studio Code](code-editor/microsoft-visual-studio-code.md)
 
 ## Project Folder
 
