@@ -34,6 +34,8 @@ To install or update to the latest version of **npm**, in the **Command Prompt**
 npm install npm -g
 ```
 
+
+
 Verify your installation by typing the following command.
 
 ```bash
@@ -86,6 +88,8 @@ If you already have Homebrew installed, update Homebrew by opening a terminal an
 brew update
 ```
 
+### 
+
 ### Node
 
 Homebrew will make installing and updating **Node** easier. To determine if you need to follow the install or update instructions, type the following command in your terminal. If you see a version number in the output, follow the instructions to **Update Node**.
@@ -108,6 +112,8 @@ In the terminal, type the following command to update Node.
 brew update node
 ```
 
+### 
+
 ### npm
 
 To install or update to the latest version of **npm**, in the terminal, type the following command.
@@ -115,6 +121,8 @@ To install or update to the latest version of **npm**, in the terminal, type the
 ```bash
 npm install npm -g
 ```
+
+
 
 Verify your installation by typing the following command.
 
