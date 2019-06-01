@@ -112,3 +112,9 @@ Get me cake
 {% endapi-method-spec %}
 {% endapi-method %}
 
+## New Thing
+Here is a code snippet
+```bash
+rm -rf node_modules
+npm install
+```
