@@ -19,6 +19,8 @@ When download is complete, run the installer. Use default selection for all sett
 
 ## Configure Terminal Settings
 
+**ALISA TO ADD MORE DETAILS HERE**
+
 &lt;Goal here is to set VSCode to use Git Bash as the default terminal&gt;
 
 ## Install Required Extensions

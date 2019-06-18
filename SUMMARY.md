@@ -23,13 +23,14 @@
 
 * [Microsoft Visual Studio Code](code-editor/microsoft-visual-studio-code.md)
 
+## Angular CLI
+
+* [Angular CLI](angular-cli/angular-cli.md)
+
 ## Project Folder
 
 * [ngGirls Folder](project-folder/project-folder.md)
 
-## Angular CLI
-
-* [Angular CLI](angular-cli/angular-cli.md)
 
 ## Markdown Test
 
