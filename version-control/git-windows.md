@@ -12,7 +12,7 @@
 
 4. Click **Next** to work through the installer using all default settings. When you reach the end of the steps, select **Install**.  
 
-5. When the process completes, type:
+5. When the process completes, open **GitBash** and type:
 
 ```bash
 git --version
@@ -25,3 +25,26 @@ git version 2.8.3
 ```
 returned in the terminal.
 
+## Verify Install and Initialize User Settings 
+
+Next, we need to configure our Git version control so that you can use it with your GitHub account.
+
+Open **GitBash**, set your user name by running the command:
+
+## Verify Install and Initialize User Settings 
+
+Next, we need to configure our Git version control so that you can use it with your GitHub account.
+
+1. Open t**GitBash** and set your user name by running the following command and pressing `Enter`:
+
+```bash
+git config --global user.name "Your Name"
+```
+* Replace the text "Your Name" with your own full name, keeping the quotation marks. i.e. "Gloria Higley"
+
+2. Next, set your user email address by running the following command and pressing `Enter`
+
+```bash
+git config --global user.email youremail@example.com 
+```
+* Replace youremail@example.com with your own email address.

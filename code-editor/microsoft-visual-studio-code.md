@@ -25,17 +25,22 @@ When download is complete, run the installer. Use default selection for all sett
 
 ## Install Required Extensions
 
-We will install "Angular Essentials" extension by John Papa. When the installation is complete, open VS Code and select the **Extensions** icon on the left toolbar.
+We will install "Angular Essentials" extension by John Papa. 
 
-![Visual Studio Code Extensions Menu](../.gitbook/assets/extensions.png)
+1. When the installation noted in the previous section is complete, open VS Code and select the **Extensions** icon on the left toolbar.
 
-Type "Angular Essentials" in the input. Press the **Install** button to install the extension.
+    ![Visual Studio Code Extensions Menu](../.gitbook/assets/extensions.png)
 
-![](../.gitbook/assets/install-extensions.png)
+2. Type "Angular Essentials" in the input. 
+3. Press the **Install** button to install the extension.
 
-## Optional- Install Themes
+    ![](../.gitbook/assets/install-extensions.png)
 
-The "Angular Essentials" extension includes a theme called "Winter is coming". You can choose a new theme by navigating to **File** -&gt; **Preferences** -&gt; **Color Theme** and select the theme you like out of the list.
+## Optional - Install Themes
+
+The "Angular Essentials" extension includes a theme called "Winter is coming". 
+
+You can choose a new theme by navigating to **File** -&gt; **Preferences** -&gt; **Color Theme** and select the theme you like out of the list.
 
 If you want to try a different color theme, you can type in the theme you want in the **Extensions** search and click **Install**. 
 

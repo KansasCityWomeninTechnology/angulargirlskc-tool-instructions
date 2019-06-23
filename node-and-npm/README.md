@@ -8,10 +8,8 @@
 
 **npm** \(**N**ode **P**ackage **M**anager\) is a package manager for JavaScript packages. npm allows you to manage and use code from other developers so you don't have to reinvent the wheel and can reuse handy bits of code for common functionality.
 
-Click on the arrow (^) below to expand the section for your operating system.
+Navigate to the next section based on your operating system. (i.e. PCs will use the Windows instructions and Mac users will use the macOs & Linux instructions.)
 
-{% include "./node-windows.md" %}
 
-{% include "./node-mac.md" %}
 
 
