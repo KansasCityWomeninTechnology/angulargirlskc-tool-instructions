@@ -35,7 +35,7 @@ Open **GitBash**, set your user name by running the command:
 
 Next, we need to configure our Git version control so that you can use it with your GitHub account.
 
-1. Open t**GitBash** and set your user name by running the following command and pressing `Enter`:
+1. Open **GitBash** and set your user name by running the following command and pressing `Enter`:
 
 ```bash
 git config --global user.name "Your Name"

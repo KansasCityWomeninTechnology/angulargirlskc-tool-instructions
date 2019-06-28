@@ -2,10 +2,6 @@
 
 * [Tool Installations](README.md)
 
-## Tips
-
-* [Installation and Tutorital Tips](tips/tips.md)
-
 ## Browser
 
 * [Google Chrome](browser/google-chrome.md)
@@ -39,6 +35,9 @@
 
 * [Angular CLI](angular-cli/angular-cli.md)
 
+## Tips
+
+* [Installation and Tutorial Tips](tips/tips.md)
 
 ## Markdown Test
 
