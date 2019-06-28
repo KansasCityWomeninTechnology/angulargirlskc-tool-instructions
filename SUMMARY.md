@@ -2,7 +2,7 @@
 
 * [Tool Installations](README.md)
 
-## BROWSER
+## Browser
 
 * [Google Chrome](browser/google-chrome.md)
 
@@ -10,16 +10,20 @@
 
 * [Slack](chat-client/slack.md)
 
-## Node & npm
+## Web Development Tools
 
-* [Node](node-and-npm/node.md)
+* [Node & npm](node-and-npm/README.md)
+    * [Windows OS](node-and-npm/node-windows.md)
+    * [macOs & Linux](node-and-npm/node-mac.md)
 
 ## Version Control
 
 * [GitHub](version-control/github.md)
-* [Git](version-control/git.md)
+* [Git](version-control/README.md)
+    * [Windows OS](version-control/git-windows.md)
+    * [macOs & Linux](version-control/git-mac.md)
 
-## CODE EDITOR
+## Code Editor
 
 * [Microsoft Visual Studio Code](code-editor/microsoft-visual-studio-code.md)
 
@@ -30,6 +34,10 @@
 ## Angular CLI
 
 * [Angular CLI](angular-cli/angular-cli.md)
+
+## Tips
+
+* [Installation and Tutorial Tips](tips/tips.md)
 
 ## Markdown Test
 

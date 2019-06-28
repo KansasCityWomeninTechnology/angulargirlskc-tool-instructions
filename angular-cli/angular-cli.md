@@ -22,3 +22,12 @@ If you see output with a version number, your Angular CLI installation is succes
 
 ![Angular CLI successful installation](../.gitbook/assets/angular-cli.png)
 
+### **Congratulations!**
+
+You've reach the end of the installation worksheet. You have installed all of the tools you will need to build your first Angular application! 
+
+Give yourself a pat on the back! We look forward to seeing you back here tomorrow to continue working on your to-do list app. 
+
+
+
+

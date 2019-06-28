@@ -1,6 +1,6 @@
 # GitHub
 
-![](../.gitbook/assets/Octocat.jpg)
+![](../.gitbook/assets/octocat.jpg)
 
 We will use GitHub, an essential cloud-based companion tool to Git. This is where your code repositories are stored.
 
