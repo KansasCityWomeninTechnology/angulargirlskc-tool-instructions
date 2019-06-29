@@ -2,44 +2,45 @@
 
 We will use the Homebrew Package Manager we installed in the Node & npm section to install Git. 
 
-1. To begin, type the following command in your terminal:
+To begin, type the following command in your terminal:
 
 ```bash
 brew install git
 ```
 
-2. When the process completes, open your **Terminal** and type:
+When the process completes, open your **Terminal** and type the following to ensure Git properly installed.
 
 ```bash
 git --version
 ```
 
-to ensure Git was properly installed. 
-
-If it is properly installed you should see something like 
+If it is properly installed you should see something like this returned in the terminal.
 
 ```bash
 git version 2.8.3
 ```
-returned in the terminal.
 
 ## Verify Install and Initialize User Settings 
 
 Next, we need to configure our Git version control so that you can use it with your GitHub account.
 
-1. Open the **Terminal** and set your user name by running the following command and pressing `Return/Enter`:
+Open **Terminal** and set your user name by running the following command and pressing `Return/Enter`:
 
 ```bash
 git config --global user.name "Your Name"
 ```
-* Replace the text "Your Name" with your own full name, keeping the quotation marks. i.e. "Gloria Higley"
 
-2. Next, set your user email address by running the following command and pressing `Return/Enter`
+{% hint style="warning" %}
+Replace the text "Your Name" with your own full name, keeping the quotation marks. i.e. "Jane Doe"
+{% endhint %}
+
+Next, set your user email address by running the following command and pressing `Return/Enter`:
 
 ```bash
 git config --global user.email youremail@example.com 
 ```
-* Replace youremail@example.com with your own email address.
 
-
+{% hint style="warning" %}
+Replace youremail@example.com with your own email address.
+{% endhint %}
 
