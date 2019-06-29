@@ -1,10 +1,7 @@
 # Slack
 
-![](../.gitbook/assets/slack_rgb.svg)
+![](../.gitbook/assets/slack.png)
 
-## Create a Slack Account
-
-**THIS STILL NEEDS WORK ONCE SLACK DETAILS CONFIRMED**
 
 Slack is a messaging application used for team collaboration and communication. We will use Slack throughout the workshop to communicate updates and offer assistance when you have questions. We will also use Slack after the workstop to keep in touch and offer ongoing support as you learn more about web development. 
 

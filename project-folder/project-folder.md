@@ -1,5 +1,7 @@
 # Project Folder
 
+![](../.gitbook/assets/folder.png)
+
 Next, we will create a project folder to use for the workshop. 
 
 You may be accustomed to creating folders in a file explorer on your computer to store documents like Word or Excel files. 
