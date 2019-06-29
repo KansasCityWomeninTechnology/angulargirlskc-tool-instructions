@@ -51,15 +51,14 @@ JAD TODO- Try this on the Surface to make sure this step is necessary.
 
 We will install a required extension to add Angular language support, code completion (which helps fill in the blank as you type code), and  linting (notifications in code to help catch errors). Select the **Extensions** icon on the left toolbar.
 
-1. When the installation noted in the previous section is complete, open VS Code and select the **Extensions** icon on the left toolbar.
+When the installation noted in the previous section is complete, open VS Code and select the **Extensions** icon on the left toolbar.
 
-    ![Visual Studio Code Extensions Menu](../.gitbook/assets/extensions.png)
-Type "Angular Essentials" in the input. Find the "Angular Essentials" by John Papa and press the green **Install** button to install the extension.
+![Visual Studio Code Extensions Menu](../.gitbook/assets/extensions.png)
 
-2. Type "Angular Essentials" in the input. 
-3. Press the **Install** button to install the extension.
+Type "Angular Essentials" in the input. Find the "Angular Essentials" by John Papa and press the **Install** button to install the extension.
 
-    ![](../.gitbook/assets/install-extensions.png)
+![](../.gitbook/assets/install-extensions.png)
+
 ## Optional- Install Color Themes
 
 The "Angular Essentials" extension includes a color theme called "Winter is coming". You can choose a new theme by navigating to **File** -&gt; **Preferences** -&gt; **Color Theme** and select the theme you like out of the list.
