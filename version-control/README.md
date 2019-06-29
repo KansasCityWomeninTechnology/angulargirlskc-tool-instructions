@@ -1,5 +1,7 @@
 # Git
 
+![](../.gitbook/assets/git.png)
+
 Git is a tool that helps you manage versions of your code and work in collaboration with team members. There is a lot to know about it, but in this tutorial we will cover only basic usage.
 
 ## Install Git
