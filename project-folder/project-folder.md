@@ -74,7 +74,7 @@ cd nggirls-workshop
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-Open VS Code in this folder by running the following command. You'll need to do this again when we start working on the workshop tutorial.
+Open VS Code in this folder by running the following command.
 
 {% code-tabs %}
 {% code-tabs-item title="command-line" %}
@@ -84,3 +84,4 @@ code .
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+Leave VS Code open. We'll use the integrated terminal for the next chapter.

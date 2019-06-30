@@ -16,7 +16,7 @@ Once the installation is complete, we'll verify our installation using a command
 
 Open **Git Bash** \(search for "git bash" in your computer's **Start** menu\).
 
-![Opening Git Bash](https://github.com/KansasCityWomeninTechnology/angulargirlskc-tool-instructions/tree/4e0e832b1dbe9163dd08c2ebc1a7c7174f324305/version-control/git-bash.png)
+![Opening Git Bash](../../.gitbook/assets/git-bash.png)
 
 Run the following command to ensure Git was properly installed.
 

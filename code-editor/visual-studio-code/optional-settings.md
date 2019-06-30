@@ -14,3 +14,4 @@ Some popular themes include:
 * Summer Time
 * Shades of Purple
 
+Close Visual Studio Code.

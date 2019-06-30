@@ -18,3 +18,5 @@ Repeat to install the other required extensions.
 
 Visual Studio Code may prompt you to restart the application after installing an extension. Make sure you restart Visual Studio Code after installing all the required extensions if you didn't restart for each extension.
 
+Close Visual Studio Code if you're not configuring optional settings.
+
