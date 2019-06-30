@@ -26,6 +26,9 @@
 ## Code Editor
 
 * [Microsoft Visual Studio Code](code-editor/microsoft-visual-studio-code.md)
+   * [Install](code-editor/install.md)
+   * [Required Extensions](code-editor/required-extensions.md)
+   * [Optional Settings](code-editor/optional-settings.md)
 
 ## Project Folder
 
