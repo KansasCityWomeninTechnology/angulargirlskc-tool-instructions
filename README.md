@@ -6,10 +6,10 @@ Developers use specialized tools to create web applications. This worksheet will
 This installation guide expects you to install the tools in the order of the tools presented. If you skip around, you may not have pre-requisite tools installed.
 {% endhint %}
 
-### Helpful Tips
+## Helpful Tips
 
 {% hint style="info" %}
-**View the worksheet and your IDE in split screen** 
+**View the worksheet and your IDE in split screen**
 
 We recommend viewing the worksheet in split screen mode so you don't have to dig through your open applications to find the correct window. You can position the open application you're configuring to the other half of your screen.
 
@@ -19,6 +19,4 @@ We recommend viewing the worksheet in split screen mode so you don't have to dig
 
 Mentors are happy to help!
 {% endhint %}
-
-
 

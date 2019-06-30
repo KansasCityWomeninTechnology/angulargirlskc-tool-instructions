@@ -25,7 +25,7 @@ Some GFM \(Github flavor markdown\) such as tasklist
 ```typescript
 class MyClass {
    constructor(private _name: string) {}
-   
+
    public sayHello() : void {
       alert(`Hello ${this._name}!`);
    }
@@ -58,25 +58,19 @@ This is danger
 
 ### Tabs
 
-{% tabs %}
-{% tab title="First Tab" %}
 > Sometimes you need to install deps
-{% endtab %}
 
-{% tab title="Second Tab" %}
 ```text
 npm i
 ```
-{% endtab %}
-{% endtabs %}
 
 ### Embed Video
 
-{% embed url="https://vimeo.com/250067069" %}
+{% embed url="https://vimeo.com/250067069" caption="" %}
 
 ### Embed CodePen
 
-{% embed url="https://codepen.io/CodingCocktailsKC/pen/EzyyXB" %}
+{% embed url="https://codepen.io/CodingCocktailsKC/pen/EzyyXB" caption="" %}
 
 ### API
 
@@ -104,7 +98,7 @@ Get me cake
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}

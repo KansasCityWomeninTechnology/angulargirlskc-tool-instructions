@@ -1,26 +1,27 @@
-# Project Folder
+# ngGirls Folder
 
 ![](../.gitbook/assets/folder.png)
 
-Next, we will create a project folder to use for the workshop. 
+Next, we will create a project folder to use for the workshop.
 
-You may be accustomed to creating folders in a file explorer on your computer to store documents like Word or Excel files. 
+You may be accustomed to creating folders in a file explorer on your computer to store documents like Word or Excel files.
 
 ![Create Folder](../.gitbook/assets/create_folder.png)
 
 We will do something very similar to that to create a folder to house our Angular project, only we will create it with the command line!
 
-To begin, open the command line tool on your computer. 
+To begin, open the command line tool on your computer.
 
-For Windows, open **Git Bash**. 
+For Windows, open **Git Bash**.
 
-For macOS & Linux, open **Terminal**. 
+For macOS & Linux, open **Terminal**.
 
 {% hint style="info" %}
 A command line tool is also referred to as a "terminal".
 {% endhint %}
 
 ## About the Command Line
+
 When you open your command line tool, you'll see the prompt, in our case the `$` symbol. The terminals we're using also prints out your current location in your computer's file system. When you first open your terminal, you should see `~` \(called a tilda\) that is a shortcut way to say you are at your **HOME** location.
 
 You can also print out your current location in the file system by running `pwd` in the command line. This will **P**rint **W**orking **D**irectory to tell you where you are.
@@ -44,6 +45,7 @@ Check out our [handy command line reference](../tips/tips.md) list if you need a
 {% endhint %}
 
 ## Create the Project Folder
+
 In the command line, create a folder called 'nggirls-workshop' by running the following command:
 
 {% code-tabs %}
@@ -81,10 +83,4 @@ code .
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
-
-
-{% hint style="success" %}
-**Great job!**
-You're ready to hit the workshop running! We'll see you Saturday, July 27, at 9:00 AM!
-{% endhint %}
 
