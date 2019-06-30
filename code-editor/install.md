@@ -2,11 +2,19 @@
 
 Download [Visual Studio Code](https://code.visualstudio.com/) by clicking the green **Download for &lt;Windows OR Mac OR Linux&gt;** button. This will download the **Stable Build** for your operating system.
 
-When download is complete, run the installer. Use default selection for all settings when asked. Visual Studio Code will automatically launch when the installation is complete.
+When download is complete, run the installer. Use default selection for all settings when asked. If Visual Studio Code doesn't automatically launch when the installation is complete, open the application manually.
 
 You will see a welcome screen that looks something like this.
 
 ![](../.gitbook/assets/vs-code-welcome.png)
+
+### Add VS Code to PATH (macOS Only)
+
+We need to make VS Code findable by **Terminal**. 
+
+Open the **Command Palette** by selecting **View** ![](../.gitbook/assets/arrow-right.svg) **Command Palette...**.
+
+Type 'shell command' and select **Shell Command: Install 'code' command in PATH**
 
 
 ## Open Integrated Terminal
@@ -24,12 +32,11 @@ We will use Git Bash as our terminal for the workshop. This allows us to provide
 
 In the terminal pane, press the down arrow in the terminal shell dropdown and select **Select Default Shell**. 
 
-![](../.gitbook/assets/vs-code-select-default-shell.png)
-
+![Set default shell in VS Code Windows](../.gitbook/assets/vs-code-select-default-shell.png)
 
 You can now select you preferred terminal shell. Select **Git Bash**. 
 
-![](../.gitbook/assets/vs-code-select-git-bash.png)
+![Select Git Bash in VS Code Windows](../.gitbook/assets/vs-code-select-git-bash.png)
 
 Press the **+** button next to the terminal shell dropdown to open a new terminal using Git Bash.
 JAD TODO- Try this on the Surface to make sure this step is necessary.

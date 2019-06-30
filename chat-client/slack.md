@@ -11,3 +11,4 @@ To use Slack for the workshop, you will need to create a Slack account and be in
 
 You should have received an invite to join Slack in our pre-workshop email communication. If you have questions about the invite to Slack you received, or you did not receive an invite, grab a mentor for help. 
 
+Open Slack to the #nggirlskc channel so that you can see any announcements posted there. Feel free to ask questions and share your progress on the channel so we can celebrate your success with you!

@@ -1,102 +1,105 @@
-## Install Node and npm on Macs and Linux
+# Install Node and npm on Macs and Linux
 
-### Homebrew
+## Homebrew
 
 Homebrew is a package manager for macOS and Linux. It is an easy way to install and manage the tools we use. 
 
-To determine if you need to follow the install or update instructions, [open your Terminal](https://www.wikihow.com/Open-a-Terminal-Window-in-Mac), type the following command, and press `Return/Enter`. 
-
+We'll install the tools on this page using a command line tool. 
 {% hint style="info" %}
-You will always press `Return/Enter` after typing a command in the Terminal unless otherwise instructed.
+A command line tool is also referred to as a "terminal".
 {% endhint %}
+
+To determine if you need to follow the install or update instructions, [open your **Terminal**](https://www.wikihow.com/Open-a-Terminal-Window-in-Mac), type the following command, and press `Return/Enter`. 
 
 ```bash
 brew doctor
 ```
 
+{% hint style="info" %}
+You will always press `Return/Enter` after typing a command in the Terminal unless otherwise instructed.
+{% endhint %}
+
 If you see output stating "Your system is ready to brew." follow the instructions to [**Update Homebrew**](#update-homebrew).
 
-#### Install Homebrew
+### Install Homebrew
 
-1. In Google Chrome, navigate to the [Homebrew website](https://brew.sh/) to download and install Homebrew on your computer. 
+In Google Chrome, navigate to the [Homebrew website](https://brew.sh/) to download and install Homebrew on your computer. On the website, copy the text underneath the "Install Homebrew" header as shown in the example picture below.
 
-1. On the website, copy the text underneath the "Install Homebrew" header as shown in the example picture below.
+![Install command to copy for Homebrew](../.gitbook/assets/homebrew.png)
 
-   ![Install command to copy for Homebrew](../.gitbook/assets/homebrew.png)
+Paste the text you copied from the website into your Terminal window and press `Return/Enter` to run the command. Accept to install the "Command Line Developer Tools" and "License Agreement" if prompted.
 
-1. Paste the text you copied from the website into your Terminal window and press `Return/Enter`. Accept to install the "Command Line Developer Tools" and "License Agreement" if prompted.
+At the prompt **Press RETURN to continue or any other key to abort**, press `Return/Enter`. When prompted, type in the password you use to log in to your computer.
 
-1. At the prompt **Press RETURN to continue or any other key to abort**, press `Return/Enter`. When prompted, type in the password you use to log in to your computer.
-
-   {% hint style="info" %}
+{% hint style="info" %}
 It may look like you're not typing anything in but this is because it doesn't want to display your password on the screen for security. Type your full password and press `Return/Enter`.
-   {% endhint %}
+{% endhint %}
 
-1. The process will run for a few minutes until it completes. When finished type the following command in your Terminal and press `Return/Enter`.
+The process will run for a few minutes until it completes. When finished run the following command. 
 
-   ```bash
-   brew -v
-   ```
+```bash
+brew -v
+```
 
-1. If you see a version number in the Terminal output Homebrew has installed successfully. 
+If you see a version number in the Terminal output Homebrew has installed successfully. 
 
-   ![Successful installation of Homebrew with version check](../.gitbook/assets/brew_done.png)
+![Successful installation of Homebrew with version check](../.gitbook/assets/brew_done.png)
 
-#### Update Homebrew
+### Update Homebrew
 
-If you already have Homebrew installed, update Homebrew by opening the command line Terminal, typing in the following command and then press `Return/Enter`.
+If you already have Homebrew installed, update Homebrew by opening the **Terminal** and run the following command.
 
 ```bash
 brew update
 ```
 
 
-### Node
+## Node
 
 Homebrew will make installing and updating **Node** easier. 
 
-To determine if you need to follow the install or update instructions, type the following command in your Terminal and press `Return/Enter`. 
+To determine if you need to follow the install or update instructions, run following command. 
 
-```bash
+```text
 node --version
 ```
 
-If you see a version number in the output like the one shown in the picture below, follow the instructions to [Update Node](#update-node). 
+If you see a version number in the output like the one shown in the picture below, follow the instructions to [Update Node](#update-node). You must have Node version 10.9 or greater.
 
 ![Node version successful output](../.gitbook/assets/node-version.png)
 
 Otherwise, continue to the next section for how to install Node. 
 
-#### Install Node
+### Install Node
 
-In the Terminal, type the following command and press `Return/Enter` to install Node.
+Run the following command to install Node.
 
-```bash
+```text
 brew install node
 ```
 
-#### Update Node
+### Update Node
 
-In the Terminal, type the following command and press `Reurn/Enter` to update Node.
+Run the following command to update Node.
 
-```bash
+```text
 brew upgrade node
 ```
 
+## npm
 
+To install or update to the latest version of **npm**, run the following command.
 
-### npm
-
-To install or update to the latest version of **npm**, in the Terminal, type the following command and press `Return/Enter`.
-
-```bash
+```text
 npm install npm@latest -g
 ```
 
-Verify your installation by typing the following command.
 
-```bash
+Verify your installation by running the following command. You must have npm version 6.4.1 or greater.
+
+
+```text
 npm --version
 ```
 
-Close the command prompt window.
+Close the Terminal window.

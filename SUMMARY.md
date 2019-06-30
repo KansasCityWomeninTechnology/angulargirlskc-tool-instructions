@@ -14,18 +14,18 @@
 
 * [Node & npm](node-and-npm/README.md)
     * [Windows OS](node-and-npm/node-windows.md)
-    * [macOs & Linux](node-and-npm/node-mac.md)
+    * [macOS & Linux](node-and-npm/node-mac.md)
 
 ## Version Control
 
 * [GitHub](version-control/github.md)
 * [Git](version-control/README.md)
     * [Windows OS](version-control/git-windows.md)
-    * [macOs & Linux](version-control/git-mac.md)
+    * [macOS & Linux](version-control/git-mac.md)
 
 ## Code Editor
 
-* [Microsoft Visual Studio Code](code-editor/microsoft-visual-studio-code.md)
+* [Microsoft Visual Studio Code](code-editor/visual-studio-code.md)
    * [Install](code-editor/install.md)
    * [Required Extensions](code-editor/required-extensions.md)
    * [Optional Settings](code-editor/optional-settings.md)
@@ -40,7 +40,7 @@
 
 ## Tips
 
-* [Installation and Tutorial Tips](tips/tips.md)
+* [Tips & References](tips/tips.md)
 
 ## Markdown Test
 

@@ -1,45 +1,60 @@
-## Install Node And npm On Windows
+# Install Node And npm On Windows
 
-### Install Node
+## Install Node
 
-1. Using the Google Chrome browser, navigate to the [Node Download for Windows page](https://nodejs.org/en) and select the latest version to download.
+Using the Google Chrome browser, navigate to the [Node Download for Windows page](https://nodejs.org/en) and select the latest version to download.
 
-1. Node will begin to download on your computer. You will see the download's progress in the lower left-hand corner of your screen. 
+Node will begin to download on your computer. You will see the download's progress in the lower left-hand corner of your screen. Once the download is complete, click the file in the lower left-hand corner to open the installer. Click **Next** to work through the installer, selecting all default settings. When you reach the end of the steps, select **Install**. 
 
-1. Once the download is complete, click the file in the lower left-hand corner to open the installer. 
+Once the installation is complete, we'll verify our installation using a command line tool. 
 
-1. Click **Next** to work through the installer, selecting all default settings. When you reach the end of the steps, select **Install**. 
+{% hint style="info" %}
+A command line tool is also referred to as a "terminal".
+{% endhint %}
 
-1. Once complete, verify your installation by opening the **Command Prompt** \(search for "cmd" in your computer's **Start** menu\).
+Open **Command Prompt** \(search for "command prompt" in your computer's **Start** menu\). We'll use the **Command Prompt** terminal as our command line until we install Git and have access to the terminal we'll use for the remainder of the workshop.
 
-    ![Open Windows Command Prompt](../.gitbook/assets/cmd.png)
+![Open Windows Command Prompt](../.gitbook/assets/cmd.png)
 
-1. In the **Command Prompt**, type the following command and press `Enter`. You will always press `Enter` after typing a command in the **Command Prompt** unless otherwise instructed.
+In **Command Prompt**, type the following command and press `Enter`. 
 
-   ```bash
-   node --version
-   ```
 
-1. If the output contains a number as shown below, **Node** installed successfully.
+```bash
+node --version
+```
+
+
+{% hint style="info" %}
+You will always press `Enter` after typing a command in the command line unless otherwise instructed.
+{% endhint %}
+
+If the output contains a number as shown below, **Node** installed successfully. You must have Node version 10.9 or greater.
 
 ![Node version successful output](../.gitbook/assets/node-version-win.png)
 
-### Install npm
 
-1. To install or update to the latest version of **npm**, in the **Command Prompt**, type the following command and press `Enter`.
+## Install npm
 
-   ```bash
-   npm install npm -g
-   ```
+To install or update to the latest version of **npm**, run the following command.
 
-1. Once the process completes, verify your installation by typing the following command and pressing `Enter`.
+```bash
+npm install npm -g
+```
 
-   ```bash
-   npm --version
-   ```
 
-1. If the output shown in the command prompt contains a number as shown below, **npm** installed successfully.
+Once the process completes, verify your installation by running the following command.
 
-   ![npm version successful output](../.gitbook/assets/npm_confirm.jpg)
 
-1. Close the command prompt window.
+```bash
+npm --version
+```
+
+
+If the output shown in the command prompt contains a number as shown below, **npm** installed successfully. You must have npm version 6.4.1 or greater.
+
+![npm version successful output](../.gitbook/assets/npm_confirm.jpg)
+
+Close the **Command Prompt** window.
+
+**Continue to Version Control**
+{% page-ref page="../version-control/github.md" %}

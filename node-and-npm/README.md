@@ -10,6 +10,6 @@
 
 Navigate to the next section based on your operating system. (i.e. PCs will use the Windows instructions and Mac users will use the macOs & Linux instructions.)
 
-
-
+{% page-ref page="./node-windows.md" %}
+{% page-ref page="./node-mac.md" %}
 
