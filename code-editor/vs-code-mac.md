@@ -1,6 +1,6 @@
 # macsOS & Linux
 
-Navigate to [Visual Studio Code download site](https://code.visualstudio.com/download) and download the installer by clicking the download button for your OS.
+Navigate to [Visual Studio Code download site](https://code.visualstudio.com/download) and click the download button for your OS.
 
 {% hint style="info" %}
 **Linux Install instructions**

@@ -1,6 +1,6 @@
 # Windows OS
 
-Navigate to [Visual Studio Code download site](https://code.visualstudio.com/download) and download the installer by clicking the download button for Windows.
+Navigate to [Visual Studio Code download site](https://code.visualstudio.com/download) and click the download button for Windows. This will start downloading the VS Code installer.
 
 When download is complete, run the installer using default selection for all settings when asked. 
 
