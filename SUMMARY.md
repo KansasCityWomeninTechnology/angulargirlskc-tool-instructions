@@ -43,7 +43,3 @@
 
 * [Tips & References](tips/tips.md)
 
-## Markdown Test
-
-* [Markdown Test](markdown-test/markdown-test.md)
-
