@@ -30,7 +30,9 @@ You can now select you preferred terminal shell. Select **Git Bash**.
 
 ![Select Git Bash in VS Code Windows](../.gitbook/assets/vs-code-select-git-bash.png)
 
-Press the **+** button next to the terminal shell dropdown to open a new terminal using Git Bash. JAD TODO- Try this on the Surface to make sure this step is necessary.
+Press the **+** button next to the terminal shell dropdown to open a new terminal using Git Bash. You may close the first terminal by selecting **1: powershell** in the terminal shell dropdown and clicking the trashcan icon.
+
+![Remove a shell](../.gitbook/assets/powershell-vs-code.png)
 
 **Continue to Required Extensions**
 
