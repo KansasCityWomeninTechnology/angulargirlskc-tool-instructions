@@ -14,3 +14,11 @@ After downloading we will configure it with extra tools called _extensions_ that
 {% hint style="info" %}
 You'll often hear Visual Studio Code referred as VS Code.
 {% endhint %}
+
+
+Navigate to the next section based on your operating system.
+
+{% page-ref page="vs-code-windows.md" %}
+
+{% page-ref page="vs-code-mac.md" %}
+

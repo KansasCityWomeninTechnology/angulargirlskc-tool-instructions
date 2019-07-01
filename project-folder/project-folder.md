@@ -1,38 +1,95 @@
-# Project Folder
+# ngGirls Folder
 
 ![](../.gitbook/assets/folder.png)
 
-Next, we will create a project folder to use for the workshop. 
+Next, we will create a project folder to use for the workshop.
 
-You may be accustomed to creating folders in a file explorer on your computer to store documents like Word or Excel files. 
+You may be accustomed to creating folders in a file explorer on your computer to store documents like Word or Excel files.
 
 ![Create Folder](../.gitbook/assets/create_folder.png)
 
 We will do something very similar to that to create a folder to house our Angular project, only we will create it with the command line!
 
-To begin, navigate to the command line on your computer. 
+To begin, open the command line tool on your computer.
 
-For Windows, open **GitBash**. 
+For Windows, open **Git Bash**.
 
-For macOS & Linux, open the **Terminal**. 
+For macOS & Linux, open **Terminal**.
 
-In the command line, create a folder called 'nggirls-workshop' by entering the following command and then pressing `Return/Enter`:
+{% hint style="info" %}
+A command line tool is also referred to as a "terminal".
+{% endhint %}
 
+## About the Command Line
+
+When you open your command line tool, you'll see the prompt, in our case the `$` symbol. 
+
+{% hint style="info" %}
+**macOS users**
+
+If you installed a different shell, such as `zsh`, your prompt may look different. Coding & Cocktails setup uses `zsh` in the installation setup. Your prompt may look like a right arrow ![](../.gitbook/assets/zsh-prompt.png).
+{% endhint %}
+
+The terminals we're using also prints out your current location in your computer's file system. When you first open your terminal, you should see `~` \(called a tilda\) that is a shortcut way to say you are at your **HOME** location.
+
+You can also print out your current location in the file system by running `pwd` in the command line. This will **P**rint **W**orking **D**irectory without using the `~` shortcut to tell you where you are in the file system.
+
+![](../.gitbook/assets/cmd-overview.png)
+
+To make sure we can find our project folder for workshop, let's first make sure we're in our HOME directory. The command `cd` allows us to **C**hange **D**irectories. Run the following command to navigate HOME.
+
+{% code-tabs %}
+{% code-tabs-item title="command-line" %}
+```bash
+cd ~
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% hint style="info" %}
+**Command Line Woes?**
+
+Check out our [handy command line reference](../tips/tips.md) list if you need a little help with command line operations.
+{% endhint %}
+
+## Create the Project Folder
+
+In the command line, create a folder called 'nggirls-workshop' by running the following command:
+
+{% code-tabs %}
+{% code-tabs-item title="command-line" %}
 ```bash
 mkdir nggirls-workshop
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
 {% hint style="info" %}
 We use the terms "Folder" and "Directory" interchangeably. They mean the same thing.
 
-**mkdir** stands for 'make directory'. Then you provide the name of the directory that you want to create.
+`mkdir` stands for **Make Directory**. Then you provide the name of the directory that you want to create.
 
-When you **mkdir** in the command line, you are doing the same thing as when you create a folder in a file explorer.
+When you `mkdir` in the command line, you are doing the same thing as when you create a folder in a file explorer.
 {% endhint %}
 
-Now that you've created your folder, go back to the command line and enter the following command and press `Enter/Return`:
+Now that you've created your folder, let's verify we created our project folder by changing to the project directory. In command line run the following command:
 
+{% code-tabs %}
+{% code-tabs-item title="command-line" %}
+```bash
+cd nggirls-workshop
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+Open VS Code in this folder by running the following command.
+
+{% code-tabs %}
+{% code-tabs-item title="command-line" %}
 ```bash
 code .
 ```
-This command will open the folder you just made in Visual Studio Code so that you can see what you've created. 
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
+Leave VS Code open. We'll use the integrated terminal for the next chapter.

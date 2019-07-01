@@ -1,4 +1,4 @@
-# Node
+# Node & npm
 
 ![](../.gitbook/assets/nodejs.png)
 
@@ -8,8 +8,9 @@
 
 **npm** \(**N**ode **P**ackage **M**anager\) is a package manager for JavaScript packages. npm allows you to manage and use code from other developers so you don't have to reinvent the wheel and can reuse handy bits of code for common functionality.
 
-Navigate to the next section based on your operating system. (i.e. PCs will use the Windows instructions and Mac users will use the macOs & Linux instructions.)
+Navigate to the next section based on your operating system. \(i.e. PCs will use the Windows instructions and Mac users will use the macOs & Linux instructions.\)
 
+{% page-ref page="node-windows.md" %}
 
-
+{% page-ref page="node-mac.md" %}
 
