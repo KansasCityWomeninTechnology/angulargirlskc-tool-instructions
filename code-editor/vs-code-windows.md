@@ -1,4 +1,4 @@
-# Install VS Code for Windows
+# Windows OS
 
 Navigate to [Visual Studio Code download site](https://code.visualstudio.com/download) and download the installer by clicking the download button for Windows.
 

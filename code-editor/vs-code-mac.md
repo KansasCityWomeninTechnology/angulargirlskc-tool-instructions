@@ -1,4 +1,4 @@
-# Install VS Code for Macs & Linux
+# macsOS & Linux
 
 Navigate to [Visual Studio Code download site](https://code.visualstudio.com/download) and download the installer by clicking the download button for your OS.
 
