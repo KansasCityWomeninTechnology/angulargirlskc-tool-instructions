@@ -1,6 +1,6 @@
 # Microsoft Visual Studio Code
 
-![](../../.gitbook/assets/vs-code.png)
+![](../.gitbook/assets/vs-code.png)
 
 Visual Studio Code is the **I**ntegrated **D**evelopment **E**nvironment \(**IDE**\) we use. It's software that helps you write the code. **IDE**s can do a lot of amazing things, such as:
 
@@ -14,4 +14,11 @@ After downloading we will configure it with extra tools called _extensions_ that
 {% hint style="info" %}
 You'll often hear Visual Studio Code referred as VS Code.
 {% endhint %}
+
+
+Navigate to the next section based on your operating system.
+
+{% page-ref page="vs-code-windows.md" %}
+
+{% page-ref page="vs-code-mac.md" %}
 

@@ -1,8 +1,8 @@
 # Node & npm
 
-![](../../.gitbook/assets/nodejs.png)
+![](../.gitbook/assets/nodejs.png)
 
-![](../../.gitbook/assets/npm.png)
+![](../.gitbook/assets/npm.png)
 
 **Node** is a JavaScript runtime - this means JavaScript is no longer confined to a web browser. You can now run JavaScript on your computer.
 

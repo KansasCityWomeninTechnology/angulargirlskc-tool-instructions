@@ -24,13 +24,8 @@ git --version
 
 If it is properly installed you should see something like this returned in the terminal.
 
-{% code-tabs %}
-{% code-tabs-item title="command line" %}
-```bash
-git version 2.8.3
-```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+![git version successful output](../.gitbook/assets/git-version.png)
+
 
 ## Verify Install and Initialize User Settings
 

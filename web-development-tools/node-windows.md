@@ -14,7 +14,7 @@ A command line tool is also referred to as a "terminal".
 
 Open **Command Prompt** \(search for "command prompt" in your computer's **Start** menu\). We'll use the **Command Prompt** terminal as our command line until we install Git and have access to the terminal we'll use for the remainder of the workshop.
 
-![Open Windows Command Prompt](../../.gitbook/assets/cmd.png)
+![Open Windows Command Prompt](../.gitbook/assets/cmd.png)
 
 In **Command Prompt**, type the following command and press `Enter`.
 
@@ -32,7 +32,7 @@ You will always press `Enter` after typing a command in the command line unless 
 
 If the output contains a number as shown below, **Node** installed successfully. You must have Node version 10.9 or greater.
 
-![Node version successful output](../../.gitbook/assets/node-version-win.png)
+![Node version successful output](../.gitbook/assets/node-version-win.png)
 
 ## Install npm
 
@@ -58,11 +58,11 @@ npm --version
 
 If the output shown in the command prompt contains a number as shown below, **npm** installed successfully. You must have npm version 6.4.1 or greater.
 
-![npm version successful output](../../.gitbook/assets/npm_confirm.jpg)
+![npm version successful output](../.gitbook/assets/npm_confirm.jpg)
 
 Close the **Command Prompt** window.
 
 **Continue to GitHub**
 
-{% page-ref page="../../version-control/github.md" %}
+{% page-ref page="../version-control/github.md" %}
 

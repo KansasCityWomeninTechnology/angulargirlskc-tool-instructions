@@ -1,6 +1,6 @@
 # Git
 
-![](../../.gitbook/assets/git.png)
+![](../.gitbook/assets/git.png)
 
 Git is a tool that helps you manage versions of your code and work in collaboration with team members. Git and version control is a deep subject, but in this tutorial we will cover only basic usage.
 

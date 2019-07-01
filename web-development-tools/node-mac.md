@@ -30,7 +30,7 @@ If you see output stating "Your system is ready to brew." follow the instruction
 
 In Google Chrome, navigate to the [Homebrew website](https://brew.sh/) to download and install Homebrew on your computer. On the website, copy the text underneath the "Install Homebrew" header as shown in the example picture below.
 
-![Install command to copy for Homebrew](../../.gitbook/assets/homebrew.png)
+![Install command to copy for Homebrew](../.gitbook/assets/homebrew.png)
 
 Paste the text you copied from the website into your Terminal window and press `Return/Enter` to run the command. Accept to install the "Command Line Developer Tools" and "License Agreement" if prompted.
 
@@ -52,7 +52,7 @@ brew -v
 
 If you see a version number in the Terminal output Homebrew has installed successfully.
 
-![Successful installation of Homebrew with version check](../../.gitbook/assets/brew_done.png)
+![Successful installation of Homebrew with version check](../.gitbook/assets/brew_done.png)
 
 ### Update Homebrew
 
@@ -82,7 +82,7 @@ node --version
 
 If you see a version number in the output like the one shown in the picture below, follow the instructions to [Update Node](node-mac.md#update-node). You must have Node version 10.9 or greater.
 
-![Node version successful output](../../.gitbook/assets/node-version.png)
+![Node version successful output](../.gitbook/assets/node-version.png)
 
 Otherwise, continue to the next section for how to install Node.
 
@@ -131,6 +131,8 @@ npm --version
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
+
+![npm version successful output](../.gitbook/assets/npm-version.png)
 
 Close the Terminal window.
 
