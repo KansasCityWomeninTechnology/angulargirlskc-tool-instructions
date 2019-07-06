@@ -39,7 +39,7 @@ You can also print out your current location in the file system by running `pwd`
 To make sure we can find our project folder for workshop, let's first make sure we're in our HOME directory. The command `cd` allows us to **C**hange **D**irectories. Run the following command to navigate HOME.
 
 {% code-tabs %}
-{% code-tabs-item title="command-line" %}
+{% code-tabs-item title="command line" %}
 ```bash
 cd ~
 ```
@@ -61,7 +61,7 @@ Check out our [handy command line reference](../tips/tips.md) list if you need a
 In the command line, create a folder called 'nggirls-workshop' by running the following command:
 
 {% code-tabs %}
-{% code-tabs-item title="command-line" %}
+{% code-tabs-item title="command line" %}
 ```bash
 mkdir nggirls-workshop
 ```
@@ -79,7 +79,7 @@ When you `mkdir` in the command line, you are doing the same thing as when you c
 Let's verify we created our project folder by changing to the project directory by running the following command:
 
 {% code-tabs %}
-{% code-tabs-item title="command-line" %}
+{% code-tabs-item title="command line" %}
 ```bash
 cd nggirls-workshop
 ```

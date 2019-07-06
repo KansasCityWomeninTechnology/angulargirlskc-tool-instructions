@@ -80,7 +80,7 @@ We want to open the project in your IDE. We can use the toolbar inside VS Code o
 Open VS Code in this folder using the command line by running:
 
 {% code-tabs %}
-{% code-tabs-item title="command-line" %}
+{% code-tabs-item title="command line" %}
 ```bash
 code .
 ```
@@ -110,7 +110,7 @@ Visual Studio Code should automatically open the terminal to your project locati
 In the terminal inside VS Code, run the following command to serve your application. This process continues in a "stuck" state until you tell it to stop.
 
 {% code-tabs %}
-{% code-tabs-item title="command-line" %}
+{% code-tabs-item title="command line" %}
 ```bash
 ng serve -o
 ```
