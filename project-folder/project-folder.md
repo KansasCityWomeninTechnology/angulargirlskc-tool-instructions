@@ -30,7 +30,7 @@ When you open your command line tool, you'll see the prompt, in our case the `$`
 If you installed a different shell, such as `zsh`, your prompt may look different. Coding & Cocktails setup uses `zsh` in the installation setup. Your prompt may look like a right arrow ![](../.gitbook/assets/zsh-prompt.png).
 {% endhint %}
 
-The terminals we're using also prints out your current location in your computer's file system. When you first open your terminal, you should see `~` \(called a tilda\) that is a shortcut way to say you are at your **HOME** location.
+The terminals we're using also prints out your current location in your computer's file system above the command prompt. When you first open your terminal, you should see `~` \(called a tilda\) that is a shortcut way to say you are at your **HOME** location.
 
 You can also print out your current location in the file system by running `pwd` in the command line. This will **P**rint **W**orking **D**irectory without using the `~` shortcut to tell you where you are in the file system.
 
@@ -45,6 +45,10 @@ cd ~
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
+
+{% hint style="info" %}
+Always press `Enter/Return` after typing each command in command line. This makes the command run in your computer.
+{% endhint %}
 
 {% hint style="info" %}
 **Command Line Woes?**
@@ -72,7 +76,7 @@ We use the terms "Folder" and "Directory" interchangeably. They mean the same th
 When you `mkdir` in the command line, you are doing the same thing as when you create a folder in a file explorer.
 {% endhint %}
 
-Now that you've created your folder, let's verify we created our project folder by changing to the project directory. In command line run the following command:
+Let's verify we created our project folder by changing to the project directory by running the following command:
 
 {% code-tabs %}
 {% code-tabs-item title="command-line" %}
@@ -82,14 +86,3 @@ cd nggirls-workshop
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-Open VS Code in this folder by running the following command.
-
-{% code-tabs %}
-{% code-tabs-item title="command-line" %}
-```bash
-code .
-```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-Leave VS Code open. We'll use the integrated terminal for the next chapter.
