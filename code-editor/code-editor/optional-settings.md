@@ -21,3 +21,4 @@ Some popular themes include:
 * Shades of Purple
 
 Close Visual Studio Code.
+

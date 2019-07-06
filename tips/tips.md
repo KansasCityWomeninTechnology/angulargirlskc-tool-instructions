@@ -62,7 +62,7 @@ Always press `Enter/Return` after typing each command in command line. This make
 {% hint style="info" %}
 Too many keyboard shortcuts?
 
-You can type what you're looking for in the **Command Palette**. Open the Command Palette by selecting **View** ![](../.gitbook/assets/arrow-right.svg) **Command Palette...** and type the action you want to do.
+You can type what you're looking for in the **Command Palette**. Open the Command Palette by selecting **View** ![](../.gitbook/assets/arrow-right%20%283%29.svg) **Command Palette...** and type the action you want to do.
 
 To open the Command Palette quickly, use the keyboard shortcut `ctrl` + `shift` + `p`.
 {% endhint %}

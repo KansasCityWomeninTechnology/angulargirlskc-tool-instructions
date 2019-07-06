@@ -8,7 +8,7 @@ We will install the following required extensions:
 
 To start installing extensions, select the **Extensions** icon on the left toolbar.
 
-![Visual Studio Code Extensions Menu](../.gitbook/assets/extensions.png)
+![Visual Studio Code Extensions Menu](../../.gitbook/assets/extensions.png)
 
 Type the name of the extension in the input, in this case, type "Angular Essentials". Find the "Angular Essentials" by John Papa and press the **Install** button to install the extension.
 

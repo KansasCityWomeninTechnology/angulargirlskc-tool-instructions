@@ -22,7 +22,7 @@ A command line tool is also referred to as a "terminal".
 
 ## About the Command Line
 
-When you open your command line tool, you'll see the prompt, in our case the `$` symbol. 
+When you open your command line tool, you'll see the prompt, in our case the `$` symbol.
 
 {% hint style="info" %}
 **macOS users**

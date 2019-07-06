@@ -24,8 +24,7 @@ git --version
 
 If it is properly installed you should see something like this returned in the terminal.
 
-![git version successful output](../.gitbook/assets/git-version.png)
-
+![git version successful output](../../.gitbook/assets/git-version.png)
 
 ## Verify Install and Initialize User Settings
 
