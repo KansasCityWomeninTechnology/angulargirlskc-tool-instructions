@@ -83,7 +83,7 @@ code .
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-You can also open the project folder using the toolbar by selecting **File** ![](../.gitbook/assets/arrow-right.svg) **Open Folder...** and navigating to the `~/nggirls-workshop/todo-list` folder.
+You can also open the project folder using the toolbar by selecting **File** ![](../.gitbook/assets/arrow-right.svg) **Open Folder...** and navigating to the `~/nggirls-workshop/todo-list` folder in your File Explorer.
 
 Close your terminal window.
 
@@ -100,10 +100,10 @@ In VS Code, open a terminal window by selecting **Terminal** ![](../.gitbook/ass
 {% hint style="info" %}
 Visual Studio Code should automatically open the terminal to your project location \(`~/nggirls-workshop/todo-list`\). 
 
-If it doesn't, navigate there by running the command:
+If it doesn't, navigate there by running the command in the VS Code terminal:
 
 {% code-tabs %}
-{% code-tabs-item title="Visual Studio Code terminal" %}
+{% code-tabs-item title="command line" %}
 ```bash
 cd ~/nggirls-workshop/todo-list
 ```
@@ -124,7 +124,7 @@ ng serve -o
 The flag `-o` is a short for `--open`, which will open your default browser to where the application is running: `localhost:4200​`.
 
 {% hint style="danger" %}
-If the application doesn't open in Google Chrome, copy the URL of the application, open a new Chrome tab, and paste in the application URL. You will have to repeat this at the workshop when starting up your project.
+If the application doesn't open in Google Chrome, copy the URL of the application, open a new Chrome tab, and paste in the application URL. You may close the other browser. You will have to repeat this at the workshop when starting up your project.
 {% endhint %}
 
 You should see a page like this:
