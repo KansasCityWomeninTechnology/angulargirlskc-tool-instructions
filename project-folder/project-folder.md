@@ -30,7 +30,7 @@ When you open your command line tool, you'll see the prompt, in our case the `$`
 If you installed a different shell, such as `zsh`, your prompt may look different. Coding & Cocktails setup uses `zsh` in the installation setup. Your prompt may look like a right arrow ![](../.gitbook/assets/zsh-prompt.png).
 {% endhint %}
 
-The terminals we're using also prints out your current location in your computer's file system above the command prompt. When you first open your terminal, you should see `~` \(called a tilda\) that is a shortcut way to say you are at your **HOME** location.
+The terminals we're using also prints out your current location in your computer's file system above the command prompt. When you first open your terminal, you should see `~` \(called a tilde\) that is a shortcut way to say you are at your **HOME** location.
 
 You can also print out your current location in the file system by running `pwd` in the command line. This will **P**rint **W**orking **D**irectory without using the `~` shortcut to tell you where you are in the file system.
 
