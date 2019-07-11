@@ -6,7 +6,7 @@ Git is a tool that helps you manage versions of your code and work in collaborat
 
 ## Install Git
 
-Navigate to the next section based on your operating system. \(i.e. PCs will use the Windows instructions and Mac users will use the macOs & Linux instructions.\)
+Navigate to the next section based on your operating system. \(i.e. PCs will use the Windows instructions and Mac users will use the macOS & Linux instructions.\)
 
 {% page-ref page="git-windows.md" %}
 
