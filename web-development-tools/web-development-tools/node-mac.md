@@ -54,6 +54,10 @@ If you see a version number in the Terminal output Homebrew has installed succes
 
 ![Successful installation of Homebrew with version check](../../.gitbook/assets/brew_done.png)
 
+{% hint style="warning" %}
+If you are not able to install Homebrew, we recommend using **N**ode **V**ersion **M**anager, **nvm** to install **Node**. See the section on **Node** for installation instructions using **nvm**.
+{% endhint %}
+
 ### Update Homebrew
 
 If you already have Homebrew installed, update Homebrew by opening the **Terminal** and run the following command.
@@ -80,7 +84,7 @@ node --version
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-If you see a version number in the output like the one shown in the picture below, follow the instructions to [Update Node](node-mac.md#update-node). You must have Node version 10.9 or greater.
+If you see a version number in the output like the one shown in the picture below, follow the instructions to [Update Node](node-mac.md#update-node). You must have Node version 12.6 or greater.
 
 ![Node version successful output](../../.gitbook/assets/node-version.png)
 
@@ -110,6 +114,25 @@ brew upgrade node
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+{% hint style="warning" %}
+To install or update **Node** using **nvm**, follow the instructions on the **nvm** [GitHub page to install](https://github.com/nvm-sh.nvm#install--update-script). Feel free to grab a mentor!
+
+If you using Ubuntu, your install commands may look like:
+
+{% code-tabs %}
+{% code-tabs-item title="command line" %}
+```
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.35.3/install.sh | bash
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+nvm install node
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+
+{% endhint %}
+
 ## npm
 
 To install or update to the latest version of **npm**, run the following command.
@@ -122,7 +145,7 @@ npm install npm@latest -g
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-Verify your installation by running the following command. You must have npm version 6.4.1 or greater.
+Verify your installation by running the following command. You must have npm version 6.14.4 or greater.
 
 {% code-tabs %}
 {% code-tabs-item title="command line" %}
@@ -132,7 +155,6 @@ npm --version
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-![npm version successful output](../../.gitbook/assets/npm-version.png)
 
 Close the Terminal window.
 

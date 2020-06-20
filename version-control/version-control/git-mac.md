@@ -26,6 +26,10 @@ If it is properly installed you should see something like this returned in the t
 
 ![git version successful output](../../.gitbook/assets/git-version.png)
 
+{% hint style="warning" %}
+If you were not able to install Homebrew, install or update Git following the instructions for your OS on the [Git Downloads webpage](https://git-scm.com/downloads).
+{% endhint %}
+
 ## Verify Install and Initialize User Settings
 
 Next, we need to configure our Git version control so that you can use it with your GitHub account.

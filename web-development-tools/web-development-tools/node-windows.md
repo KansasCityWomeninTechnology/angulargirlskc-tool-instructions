@@ -30,7 +30,7 @@ node --version
 You will always press `Enter` after typing a command in the command line unless otherwise instructed.
 {% endhint %}
 
-If the output contains a number as shown below, **Node** installed successfully. You must have Node version 10.9 or greater.
+If the output contains a number as shown below, **Node** installed successfully. You must have Node version 12.6 or higher.
 
 ![Node version successful output](../../.gitbook/assets/node-version-win.png)
 
@@ -56,7 +56,7 @@ npm --version
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-If the output shown in the command prompt contains a number as shown below, **npm** installed successfully. You must have npm version 6.4.1 or greater.
+If the output shown in the command prompt contains a number as shown below, **npm** installed successfully. You must have npm version 6.14.4 or higher.
 
 ![npm version successful output](../../.gitbook/assets/npm_confirm.jpg)
 

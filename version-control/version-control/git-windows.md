@@ -28,13 +28,13 @@ git --version
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-If it is properly installed you should see something like this in the terminal. You must have Git version 2.16.0 or higher.
+If it is properly installed you should see something like this in the terminal. You must have Git version 2.27.0 or higher.
 
 ![Git version success](../../.gitbook/assets/git-bash-version.png)
 
 ## Verify Install and Initialize User Settings
 
-Next, we need to configure our Git version control so that you can use it with your GitHub account.
+Next, we need to configure our Git version control so that you can use it with your GitHub account. If you have already set up Git before, you may not need to set up your name and email.
 
 In **Git Bash** and set your user name by running the following command:
 

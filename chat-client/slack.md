@@ -12,3 +12,7 @@ You should have received an invite to join Slack in our pre-workshop email commu
 
 Open Slack to the \#nggirlskc channel so that you can see any announcements posted there. Feel free to ask questions and share your progress on the channel so we can celebrate your success with you!
 
+
+{% hint style="info" %}
+ChromeOS users - Your tool installations are nearly complete! Skip to the [GitHub step](../version-control/github.md) to create a GitHub account and you're set for the workshop!
+{% endhint %}
