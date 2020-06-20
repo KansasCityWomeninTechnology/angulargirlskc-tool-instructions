@@ -30,7 +30,7 @@ node --version
 You will always press `Enter` after typing a command in the command line unless otherwise instructed.
 {% endhint %}
 
-If the output contains a number as shown below, **Node** installed successfully. You must have Node version 12.6 or higher.
+If the output contains a number as shown below, **Node** installed successfully. You must have Node version 12.16 or higher.
 
 ![Node version successful output](../../.gitbook/assets/node-version-win.png)
 
@@ -41,7 +41,7 @@ To install or update to the latest version of **npm**, run the following command
 {% code-tabs %}
 {% code-tabs-item title="command line" %}
 ```bash
-npm install npm -g
+npm install --global npm
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}

@@ -34,7 +34,7 @@ In Google Chrome, navigate to the [Homebrew website](https://brew.sh/) to downlo
 
 Paste the text you copied from the website into your Terminal window and press `Return/Enter` to run the command. Accept to install the "Command Line Developer Tools" and "License Agreement" if prompted.
 
-At the prompt **Press RETURN to continue or any other key to abort**, press `Return/Enter`. When prompted, type in the password you use to log in to your computer.
+At the prompt "**Press RETURN to continue or any other key to abort**", press `Return/Enter`. When prompted, type in the password you use to log in to your computer.
 
 {% hint style="info" %}
 It may look like you're not typing anything in but this is because it doesn't want to display your password on the screen for security. Type your full password and press `Return/Enter`.
@@ -55,7 +55,7 @@ If you see a version number in the Terminal output Homebrew has installed succes
 ![Successful installation of Homebrew with version check](../../.gitbook/assets/brew_done.png)
 
 {% hint style="warning" %}
-If you are not able to install Homebrew, we recommend using **N**ode **V**ersion **M**anager, **nvm** to install **Node**. See the section on **Node** for installation instructions using **nvm**.
+If you are not able to install Homebrew, we recommend using **nvm** (**N**ode **V**ersion **M**anager) to install **Node**. See the section on **Node** for installation instructions using **nvm**.
 {% endhint %}
 
 ### Update Homebrew
@@ -84,7 +84,7 @@ node --version
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-If you see a version number in the output like the one shown in the picture below, follow the instructions to [Update Node](node-mac.md#update-node). You must have Node version 12.6 or greater.
+If you see a version number in the output like the one shown in the picture below, follow the instructions to [Update Node](node-mac.md#update-node). You must have Node version 12.16 or higher.
 
 ![Node version successful output](../../.gitbook/assets/node-version.png)
 
@@ -117,7 +117,7 @@ brew upgrade node
 {% hint style="warning" %}
 To install or update **Node** using **nvm**, follow the instructions on the **nvm** [GitHub page to install](https://github.com/nvm-sh.nvm#install--update-script). Feel free to grab a mentor!
 
-If you using Ubuntu, your install commands may look like:
+If you're using Ubuntu, your install commands may look like:
 
 {% code-tabs %}
 {% code-tabs-item title="command line" %}
@@ -140,12 +140,12 @@ To install or update to the latest version of **npm**, run the following command
 {% code-tabs %}
 {% code-tabs-item title="command line" %}
 ```bash
-npm install npm@latest -g
+npm install --global npm@latest
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-Verify your installation by running the following command. You must have npm version 6.14.4 or greater.
+Verify your installation by running the following command. You must have npm version 6.14.4 or higher.
 
 {% code-tabs %}
 {% code-tabs-item title="command line" %}
