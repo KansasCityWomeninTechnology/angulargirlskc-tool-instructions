@@ -57,7 +57,7 @@ Angular CLI will ask a couple of questions to help create a new application. Ans
 1. Would you like to add Angular routing? \(y/N\): N 
 2. Which stylesheet format would you like to use? \(Use arrow keys\): CSS \(Press `Enter` to select CSS\)
 
-This can take a while, since many packages are being downloaded from the web and installed.
+This can take a while, since Angular CLI downloads and installs packages from the web that your Angular project needs.
 
 Now change your working directory to the new folder that Angular CLI created for this project by running:
 
@@ -131,7 +131,7 @@ You should see a page like this:
 
 ![Angular Start Screen](../.gitbook/assets/angular_start_screen.png)
 
-Yay! You know have a running Angular application! As long as you're working on the application you should keep the terminal where you run it open. Any change you make in the project code will be reflected immediately in the web browser.
+Yay! You know have a running Angular application! As long as you're working on the application you should keep the terminal where you run it open. Any change you make in the project code triggers the code to build and then reflects immediately in the web browser.
 
 You can open another terminal to perform tasks in parallel. To stop the app from running and exit "stuck" state, press `CTRL` + `c` in the terminal.
 
